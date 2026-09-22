@@ -1,20 +1,20 @@
 proxies:
-  - {name: 🇮🇳 IN 1, server: 139.84.166.47, port: 8388, type: ss, cipher: aes-256-gcm, password: GEdoeeqLZtkJRgSa, udp: true}
   - {name: 🇯🇵 JP 11, server: 84.247.155.196, port: 443, type: ss, cipher: aes-256-gcm, password: 3eOFeNssde7PYYMv, udp: true}
-  - {name: 🇸🇬 SG 2, server: 194.233.74.160, port: 2342, type: ss, cipher: chacha20-ietf-poly1305, password: XV4bvaJIWoxl3IYEC1e6W7, udp: true}
-  - {name: 🇰🇷 KR-211.178.105.134-0141, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
-  - {name: 🇭🇰 HK-156.245.232.239-0138, server: 156.245.232.239, port: 35043, type: vmess, uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
-  - {name: RELAY-188.114.96.19-0131, server: 188.114.96.19, port: 80, type: vmess, uuid: aed88e79-5762-4d2f-86fa-f438f32a7654, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.hesanid8.ir.}}, udp: true}
-  - {name: BE 1, server: 158.173.221.214, port: 11001, type: ss, cipher: chacha20-ietf-poly1305, password: c58d16e593d44f42, udp: true}
-  - {name: 🇰🇷 KR-52.78.158.178-5060, server: smiling-fowl.rooster465.autos, port: 443, type: trojan, password: CF68213490, udp: true}
-  - {name: 🇰🇷 KR-54.180.128.171-0185, server: accurate-cat.rooster465.autos, port: 443, type: trojan, password: NQ26071394, udp: true}
-  - {name: 🇭🇰 HK 5, server: v36.hdacd.com, port: 30836, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
-  - {name: 🇸🇬 SG-18.143.172.178-0128, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: FH72359861, udp: true}
-  - {name: 🇺🇸 US 12-1B, server: de5.edge-9d7c.com, port: 443, type: vless, uuid: ddf09ad0-02dc-485b-9048-1038de5bebf0, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM, short-id: "9d84de9d9f7b85e9" }, servername: de5.edge-9d7c.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇰🇷 KR-3.36.112.57-0217, server: guided-pelican.rooster465.autos, port: 443, type: trojan, password: NQ26071394, udp: true}
-  - {name: ID 1, server: 103.160.63.199, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: 8C5valhOd8vfwaTXUSZ6Zyb0Ip34lRR5z7P8az, udp: true}
-  - {name: 🇭🇰 HK 4, server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
   - {name: 🇯🇵 JP 10, server: 84.247.155.196, port: 80, type: ss, cipher: aes-256-gcm, password: 3eOFeNssde7PYYMv, udp: true}
+  - {name: RELAY-188.114.96.19-0131, server: 188.114.96.19, port: 80, type: vmess, uuid: aed88e79-5762-4d2f-86fa-f438f32a7654, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.hesanid8.ir.}}, udp: true}
+  - {name: 🇰🇷 KR-54.180.128.171-0185, server: accurate-cat.rooster465.autos, port: 443, type: trojan, password: NQ26071394, udp: true}
   - {name: 🇨🇦 CA 1, server: 185.156.47.97, port: 9443, type: ss, cipher: aes-256-gcm, password: eveaaTOb8ji8yntw2Z9yWUG0d6Ir8Ld8m3ymH8THdC5egiTH1mXCiBc0Skr7FibH, udp: true}
   - {name: 🇭🇰 HK 3, server: v6.hdacd.com, port: 30806, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
   - {name: 🇹🇼 TW-36.224.141.124-0118, server: r3mrcg001286ek2.cybervena.com, port: 50099, type: ss, cipher: chacha20-ietf-poly1305, password: 7e731ec3-f8e1-43f6-92cf-3978d14705c4, udp: true}
+  - {name: 🇰🇷 KR-52.78.158.178-5060, server: smiling-fowl.rooster465.autos, port: 443, type: trojan, password: CF68213490, udp: true}
+  - {name: 🇭🇰 HK 4, server: v33.hdacd.com, port: 30833, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
+  - {name: 🇰🇷 KR-211.178.105.134-0141, server: 211.178.105.134, port: 6123, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true}
+  - {name: 🇺🇸 US 12-1B, server: de5.edge-9d7c.com, port: 443, type: vless, uuid: ddf09ad0-02dc-485b-9048-1038de5bebf0, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM, short-id: "9d84de9d9f7b85e9" }, servername: de5.edge-9d7c.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇭🇰 HK-156.245.232.239-0138, server: 156.245.232.239, port: 35043, type: vmess, uuid: b15e481d-17e4-41a8-84c2-23d4f0514d9a, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /}, udp: true}
+  - {name: RELAY-188.114.96.19-0124, server: 188.114.96.19, port: 80, type: vmess, uuid: 479526cd-5011-43cf-a788-504da95e07c2, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: google.whatsapp.snapp.torob.basalam.fortresshost.ir.}}, udp: true}
+  - {name: ID 1, server: 103.160.63.199, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: 8C5valhOd8vfwaTXUSZ6Zyb0Ip34lRR5z7P8az, udp: true}
+  - {name: 🇰🇷 KR-3.36.112.57-0217, server: guided-pelican.rooster465.autos, port: 443, type: trojan, password: NQ26071394, udp: true}
+  - {name: 🇸🇬 SG-18.143.172.178-0128, server: charming-puma.rooster465.autos, port: 443, type: trojan, password: FH72359861, udp: true}
+  - {name: 🇮🇳 IN 1, server: 139.84.166.47, port: 8388, type: ss, cipher: aes-256-gcm, password: GEdoeeqLZtkJRgSa, udp: true}
+  - {name: 🇸🇬 SG 2, server: 194.233.74.160, port: 2342, type: ss, cipher: chacha20-ietf-poly1305, password: XV4bvaJIWoxl3IYEC1e6W7, udp: true}
+  - {name: 🇭🇰 HK 5, server: v36.hdacd.com, port: 30836, type: vmess, uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484, alterId: 2, cipher: auto, tls: false, udp: true}
